@@ -2,7 +2,15 @@
   "partners": [
     {
       "name": "Abel Stuker",
-      "since": "2/08/2020"
+      "since": "29/07/2020",
+      "instaname": "mario.photostudio",
+      "youtubeurl": "https://www.youtube.com/channel/UCrfTeL4YNnecjl7ZWBea5Og"
+    },
+    {
+      "name": "Mauro De Groeve",
+      "since": "2/08/2020",
+      "instaname": "mauro.youtube",
+      "youtubeurl": "https://www.youtube.com/channel/UC9JH9y4wfJ2QFNl6PxfFMzQ"
     }
   ]
 }
